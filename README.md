@@ -1,4 +1,5 @@
 # Custom Golems Mod
+(Fabric, 1.19.2)
 
 You can build each golem from the corresponding blocks and a new block, the Mutated Pumpkin (Crafting recipe: Carved Pumpkin + Lantern). 
 You can also tame each golem with the corresponding blocks like a dog, so that it teleports after the player.
