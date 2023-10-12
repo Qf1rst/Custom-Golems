@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:birch_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:acacia_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spruce_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mangrove_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_leaves"
+        }
+      ]
+    }
+  ]
+}

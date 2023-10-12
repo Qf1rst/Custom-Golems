@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_stem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_wart_block"
+        }
+      ]
+    }
+  ]
+}

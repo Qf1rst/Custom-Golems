@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dirt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coarse_dirt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:grass_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mud"
+        }
+      ]
+    }
+  ]
+}

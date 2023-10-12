@@ -1,0 +1,23 @@
+{
+  "block.caravasmod.mutated_pumpkin": "Mutated Pumpkin",
+  "block.caravasmod.lava_block": "Lava Block",
+
+  "item.caravasmod.deepslate_leggings": "Deepslate Leggings",
+  "item.caravasmod.obsidian_chestplate": "Obsidian Chestplate",
+  "item.caravasmod.magma_boots": "Magma Boots",
+  "item.caravasmod.snow_helmet": "Snow Helmet",
+
+  "effect.caravasmod.stomp": "Stomp",
+
+  "item.minecraft.potion.effect.stomp_potion": "Stomp Potion",
+
+  "item.minecraft.splash_potion.effect.stomp_potion": "Splash Potion Stomp",
+  "item.minecraft.lingering_potion.effect.stomp_potion": "Lingering Potion Stomp",
+
+  "entity.caravasmod.chest_golem": "Chest Golem",
+  "entity.caravasmod.tnt_golem": "TNT Golem",
+
+  "itemGroup.caravasmod.caravas": "Caravas Mod",
+  "key.category.caravasmod.caravas": "Caravas Mod",
+  "key.caravasmod.stomp": "Stomp"
+}

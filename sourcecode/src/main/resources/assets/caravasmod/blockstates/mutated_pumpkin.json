@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "caravasmod:block/mutated_pumpkin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "caravasmod:block/mutated_pumpkin"
+    },
+    "facing=south": {
+      "model": "caravasmod:block/mutated_pumpkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "caravasmod:block/mutated_pumpkin",
+      "y": 270
+    }
+  }
+}
